@@ -1,0 +1,7 @@
+{
+  "appId": "com.ironrhythm.app",
+  "appName": "Iron Rhythm",
+  "webDir": "www",
+  "backgroundColor": "#0b0714",
+  "android": { "allowMixedContent": false }
+}
